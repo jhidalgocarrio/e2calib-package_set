@@ -37,3 +37,6 @@ python3-setuptools:
     debian,ubuntu: python3-setuptools
     opensuse: python3-setuptools
 
+# pybind11 requires ninja-build
+ninja-build:
+    debian, ubuntu: ninja-build
