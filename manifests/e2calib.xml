@@ -1,0 +1,11 @@
+<package>
+    <description brief="e2calib: How to Calibrate Your Event Camera">
+        Events 2 calibration How to Calibrate Your Event Camera.
+    </description>
+    <author>Manasi Muglikar and Mathias Gehrig and Daniel Gehrig and Davide Scaramuzza </author>
+    <copyright>
+        Robotics and Perception Group, University of Zuric
+    </copyright>
+    <license>MIT License</license>
+    <url>https://github.com/uzh-rpg/e2calib</url>
+</package>

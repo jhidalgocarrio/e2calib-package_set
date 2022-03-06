@@ -1,0 +1,16 @@
+<package>
+    <description brief="Pybind11: Seamless operability between C++11 and Python">
+        pybind11 is a lightweight header-only library that exposes C++ types in
+        Python and vice versa, mainly to create Python bindings of existing C++
+        code. Its goals and syntax are similar to the excellent Boost.Python
+        library by David Abrahams: to minimize boilerplate code in traditional
+        extension modules by inferring type information using compile-time
+        introspection.
+    </description>
+    <author> Wenzel Jakob. Significant features and/or improvements to the code were contributed by Jonas Adler, Lori A. Burns, Sylvain Corlay, Eric Cousineau, Aaron Gokaslan, Ralf Grosse-Kunstleve, Trent Houliston, Axel Huebl, @hulucc, Yannick Jadoul, Sergey Lyskov Johan Mabille, Tomasz Miąsko, Dean Moldovan, Ben Pritchard, Jason Rhinelander, Boris Schäling, Pim Schellart, Henry Schreiner, Ivan Smirnov, Boris Staletic, and Patrick Stewart. </author>
+    <copyright>
+        Wenzel Jakob wenzel.jakob@epfl.ch, All rights reserved.
+    </copyright>
+    <license>BSD-style license</license>
+    <url>https://github.com/pybind/pybind11</url>
+</package>
