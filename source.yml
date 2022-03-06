@@ -1,0 +1,16 @@
+name: e2calib
+
+version_control:
+
+
+    - tools/pocolog_pybind:
+      github: jhidalgocarrio/tools-pocolog_pybind
+      branch: $ROCK_BRANCH
+
+    - external/pybind11:
+      github: pybind/pybind11
+      branch: $ROCK_BRANCH
+
+    - tools/e2calib:
+      github: uzh-rpg/e2calib
+      branch: main

@@ -1,0 +1,8 @@
+# IMPORTANT: new packages must be added at the top of this file
+# They must NEVER be added to other files
+
+cmake_package 'external/pybind11'
+import_package 'tools/e2calib'
+import_package 'tools/pocolog_pybind'
+
+
