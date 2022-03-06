@@ -13,4 +13,7 @@
     </copyright>
     <license>BSD-style license</license>
     <url>https://github.com/pybind/pybind11</url>
+    <depend package="python3" />
+    <depend package="python3-pio" />
+    <depend package="ninja-build" />
 </package>
