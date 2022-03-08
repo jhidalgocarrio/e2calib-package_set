@@ -4,5 +4,6 @@
 cmake_package 'external/pybind11'
 import_package 'tools/e2calib'
 import_package 'tools/pocolog_pybind'
+bundle_package 'bundles/e2calib'
 
 
