@@ -14,3 +14,8 @@ version_control:
     - tools/e2calib:
       github: uzh-rpg/e2calib
       branch: main
+
+    - bundles/e2calib:
+      github: jhidalgocarrio/bundles-e2calib.git
+      branch: $ROCK_BRANCH
+
